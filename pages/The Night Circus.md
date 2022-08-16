@@ -1,0 +1,16 @@
+title::  The Night Circus
+author:: [[Erin Morgenstern]]
+status:: reading
+type:: #book
+format:: ebook
+year:: 2001
+acquired:: library/libby
+topics:: #fantasy, #magic
+genre:: #fantasy
+tags::
+icon:: 📖
+url:: [The Night Circus - Wikipedia](https://en.wikipedia.org/wiki/The_Night_Circus)
+recommendedBy:: Libby app!
+start:: [[Jul 29th, 2022]] 
+finish::
+rating:: ⭐️

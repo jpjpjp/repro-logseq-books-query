@@ -1,0 +1,16 @@
+title:: Timequake
+author:: [[Kurt Vonnegut]]
+status::  toread
+type:: #book
+format::
+year:: 1997
+acquired:: 
+topics::
+genre:: #speculative_fiction 
+tags::
+icon:: 📖
+url::
+recommendedBy::
+start::
+finish::
+rating:: ⭐️
